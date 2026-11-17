@@ -1,6 +1,6 @@
 {
-    "latest": "1.1",
-    "latest_num": 3,
-    "updateurl": "https://github.com/pozhitok-egor/SNHelper/raw/main/SNHelper.luac",
-    "comment": ["Добавлен счётчик и на фонд репортёров.", "Если будут баги - пишите в телеграм"]
+    "latest": "1.2",
+    "latest_num": 4,
+    "updateurl": "https://raw.githubusercontent.com/egor-pozhitok/SNHelper/main/SNHelper.lua",
+    "comment": ["Новое окно: мероприятие, правила, другие скрипты автора.", "Свои уведомления и масштаб интерфейса."]
 }
