@@ -1,11 +1,9 @@
 {
-  "version": "2.1",
-  "version_num": 6,
+  "version": "2.2",
+  "version_num": 7,
   "url": "https://raw.githubusercontent.com/egor-pozhitok/SNHelper/main/SNHelper.lua",
-  "size": 672334,
+  "size": 662481,
   "changelog": [
-    "Скриншоты мероприятия - без надписей других скриптов автора (LawGuard, FisherMan, SprayKing)",
-    "Каталог скриптов: колесо мыши прокручивает список и над карточками",
-    "Новые скрипты в каталоге: LawGuard; Рыбалка и Граффити теперь FisherMan и SprayKing"
+    "Картинки скриптов в каталоге обновляются, когда их меняют"
   ]
 }
