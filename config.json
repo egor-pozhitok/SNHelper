@@ -1,6 +1,6 @@
 {
-    "latest": "1.2",
-    "latest_num": 4,
+    "latest": "2.0",
+    "latest_num": 5,
     "updateurl": "https://raw.githubusercontent.com/egor-pozhitok/SNHelper/main/SNHelper.lua",
     "comment": ["Новое окно: мероприятие, правила, другие скрипты автора.", "Свои уведомления и масштаб интерфейса."]
 }

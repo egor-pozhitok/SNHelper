@@ -1,8 +1,8 @@
 {
-  "version": "1.2",
-  "version_num": 4,
+  "version": "2.0",
+  "version_num": 5,
   "url": "https://raw.githubusercontent.com/egor-pozhitok/SNHelper/main/SNHelper.lua",
-  "size": 661031,
+  "size": 672480,
   "changelog": [
     "Раздел «Мероприятие»: сборы, строй, правила, игра и финал на одном экране",
     "Команды с капитанами, призовые места, обратный отсчёт",
