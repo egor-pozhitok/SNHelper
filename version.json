@@ -1,9 +1,9 @@
 {
-  "version": "2.2",
-  "version_num": 7,
+  "version": "2.3",
+  "version_num": 8,
   "url": "https://raw.githubusercontent.com/egor-pozhitok/SNHelper/main/SNHelper.lua",
-  "size": 662481,
+  "size": 667226,
   "changelog": [
-    "Картинки скриптов в каталоге обновляются, когда их меняют"
+    "SNHelper снова только для репортёров San News: с другим скином скрипт не запускается"
   ]
 }
